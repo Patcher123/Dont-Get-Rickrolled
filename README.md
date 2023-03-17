@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,4 +25,4 @@
 <button>Next</button>
 </a>
 </body>
-</html>
+
