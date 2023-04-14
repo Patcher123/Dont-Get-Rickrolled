@@ -1,11 +1,15 @@
-
-
+<!DOCTYPE html>
 <html lang="en">
-
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dont Get RickRoll Introduction</title>
+    <title>Document</title>
+<link rel="index.css" href="index.css"> </link>
+</head>
+<body>
+
+<title>Dont Get RickRoll Introduction</title>
     <h1> Welcome To Dont Get RickRolled </h1>
     
        <h4>The Goal Of This Game Is To Not Get RickRolled</h4>                         <h2>Version: 1.2 </h2>
@@ -38,4 +42,10 @@
         
         </body>
 
+
+
+
+    <script src="index.js"></script>
+
+</body>
 </html>
