@@ -12,7 +12,7 @@
    
        <h5>Dont Trust Anything<h5>
            <h5> Press the Button to go to your achivenments  </h5>
-           
+<body>           
            
            
            
@@ -35,5 +35,6 @@
 <button>Next</button>
 </a>
         <script src="index.js"></script>
-
+        
+        </body>
 
