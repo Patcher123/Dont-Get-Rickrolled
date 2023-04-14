@@ -1,4 +1,4 @@
-<title>Dont Get RickRoll Introduction</title>
+
     <h1> Welcome To Dont Get RickRolled </h1>
     
        <h4>The Goal Of This Game Is To Not Get RickRolled</h4>                         <h2>Version: 1.2 </h2>
@@ -29,6 +29,4 @@
 </a>
         <script src="index.js"></script>
         
-        </body>
 
-</html>
