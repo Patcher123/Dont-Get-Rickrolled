@@ -34,5 +34,6 @@
 <a href="RickRoll Game.html">
 <button>Next</button>
 </a>
+        <script src="index.js"></script>
 
 
